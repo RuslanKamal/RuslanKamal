@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RuslanKamal
-- 👀 I’m interested in  php и Python
-- 🌱 
+- 👀 I’m interested in  php and Python
+- 🌱 Django/Yii2/Laravel
 - 💞️ 
 - 📫 
 
